@@ -1,1 +1,1 @@
-Text File
+This is a basic game project scripts
