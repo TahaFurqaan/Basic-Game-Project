@@ -13,12 +13,6 @@ public class Pumkin : MonoBehaviour
         myBody = GetComponent<Rigidbody>();
     }
     
-    // Use this for initialization
-    void Start()
-    {
-
-    }
-
     // Update is called once per frame
     void Update()
     {
